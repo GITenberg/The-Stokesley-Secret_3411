@@ -1,5 +1,8 @@
 _repo: The-Stokesley-Secret_3411
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: The Stokesley children decide to save their money to buy a pig for a
   poor widow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3411#The-Stokesley-Secret
 gutenberg_issued: '2002-09-01'
 gutenberg_type: Text
 identifiers:
