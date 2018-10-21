@@ -1,5 +1,5 @@
 _repo: The-Stokesley-Secret_3411
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Family -- Juvenile fiction'
 - !lcc 'PR'
+- GITenberg
 title: The Stokesley Secret
 url: http://www.gutenberg.org/ebooks/3411
